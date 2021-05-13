@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/leap-telegram/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/leap-telegram/static/js/main.5d8ef3e0.chunk.js",
-    "main.js.map": "/leap-telegram/static/js/main.5d8ef3e0.chunk.js.map",
+    "main.js": "/leap-telegram/static/js/main.cd7e5178.chunk.js",
+    "main.js.map": "/leap-telegram/static/js/main.cd7e5178.chunk.js.map",
     "runtime-main.js": "/leap-telegram/static/js/runtime-main.a1b2ea64.js",
     "runtime-main.js.map": "/leap-telegram/static/js/runtime-main.a1b2ea64.js.map",
     "static/js/2.70a30031.chunk.js": "/leap-telegram/static/js/2.70a30031.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.a1b2ea64.js",
     "static/js/2.70a30031.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.5d8ef3e0.chunk.js"
+    "static/js/main.cd7e5178.chunk.js"
   ]
 }
